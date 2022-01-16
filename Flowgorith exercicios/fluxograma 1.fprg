@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Henrique"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-14 05:51:43 "/>
+        <attribute name="created" value="SGVucmlxdWU7REVTS1RPUC1LRFMxS1VDOzIwMjItMDEtMTQ7IjA0OjE5OjEwICI7MzEwMA=="/>
+        <attribute name="edited" value="SGVucmlxdWU7REVTS1RPUC1LRFMxS1VDOzIwMjItMDEtMTQ7IjA1OjUxOjQzICI7MjszMjEy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nota1, Nota2, Nota3, Nota4, Total, Media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <input variable="nome"/>
+            <input variable="Nota1"/>
+            <input variable="Nota2"/>
+            <input variable="Nota3"/>
+            <input variable="Nota4"/>
+            <assign variable="Total" expression="Nota1+Nota2+Nota3+Nota4"/>
+            <assign variable="Media" expression="Total/4"/>
+            <output expression="nome &amp; &quot;o total de suas notas foi = &quot; &amp; total &amp; &#13;&#10;&quot; Sua media foi = &quot; &amp; media" newline="True"/>
+            <if expression="media&lt;7">
+                <then>
+                    <output expression="&quot;infelizmente sua media n&#227;o foi o suficiente para ser aprovado. &#13;&#10;Sua media: &quot; &amp; media &amp; &quot; media necessaria: 7&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Parabens &quot; &amp; nome &amp; &quot; voc&#234; foi aprovado!&quot;" newline="False"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
