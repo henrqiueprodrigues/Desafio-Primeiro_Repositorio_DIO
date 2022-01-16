@@ -12,7 +12,7 @@ Nessa pasta se encontra os arquivos .fprg, os quais são os exercicios de fluxog
 ## Anotações:
 Nessa pasta encontra-se um arquivo .txt com anotações feitas dos comandos do prompt de comando, assim como os comandos do git, posteriormente qualquer anotação feita sera adicionada nessa mesma pasta como um arquivo .md para melhor exebição dentro da plataforma.
 
-##ex ecossistemas e documentação java
+## Ex ecossistemas e documentação java
 Nessa pasta se encontra o codigo do exercicio passado nas aulas do curso ecossistemas e documentação java, obs: o codigo foi feito na IDE eclipse, porem todo os principios mostrados foram aplicados.
 
 
