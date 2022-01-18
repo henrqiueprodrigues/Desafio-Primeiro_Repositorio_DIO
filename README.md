@@ -1,5 +1,5 @@
 # Desafio-Primeiro_Repositorio_DIO
-### Versão 1.1.1 (primeiro desafio) [^1]
+### Versão 1.2.0 (Dominando IDEs Java) [^1]
 
 Esse repositorio faz parte do curso GFT Start#3 Java e nele estarão presentes todos os exercicios passados no curso assim como anotações pertinentes aos assuntos abordados, conforme mais exercicios e anotações forem adicionadas a versão sera atualizada, assim como o índice desse arquivo, o momento do curso em que o repositorio foi atualizado sera marcado ao lado da versão entre () e uma breve descrição das mudanças sera adicionado as notas de rodapé.
 
@@ -15,5 +15,8 @@ Nessa pasta encontra-se um arquivo .txt com anotações feitas dos comandos do p
 ## Ex ecossistemas e documentação java
 Nessa pasta se encontra o codigo do exercicio passado nas aulas do curso ecossistemas e documentação java, obs: o codigo foi feito na IDE eclipse, porem todo os principios mostrados foram aplicados.
 
+## Codigos em Java
+Nessa pasta sera encontrado todos os codigos programados na linguagem java desenvolvidos ao longo do curso, assim como projetos que serão desenvolvidos no curso.
 
-[^1]: Atualização adicionadao novo exercicio
+
+[^1]: Atualização adicionadao nova pasta que servira como repositorio para codigos em java
