@@ -2,6 +2,7 @@
 ### Versão 1.3.2 (Variáveis, Tipos de dados e Operações matemáticos em Java) [^1]
 
 Esse repositorio faz parte do curso GFT Start#3 Java e nele estarão presentes todos os exercicios passados no curso assim como anotações pertinentes aos assuntos abordados, conforme mais exercicios e anotações forem adicionadas a versão sera atualizada, assim como o índice desse arquivo, o momento do curso em que o repositorio foi atualizado sera marcado ao lado da versão entre () e uma breve descrição das mudanças sera adicionado as notas de rodapé.
+**Para seguir melhor padrão de organização de projetos esse repositorio não ser amais atualizado, novos projetos serão guardados em seus proprios repositorios**
 
 ## Anotações:
 Nessa pasta encontra-se um arquivo .txt com anotações feitas dos comandos do prompt de comando, assim como os comandos do git, posteriormente qualquer anotação feita sera adicionada nessa mesma pasta como um arquivo .md para melhor exebição dentro da plataforma.
